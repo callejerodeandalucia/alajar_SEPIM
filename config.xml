@@ -5,9 +5,9 @@
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>Guía de Turismo</name>
+	<name>Guía de Alájar</name>
 	<description>
-		Puntos de Interés
+		Puntos de Interés de Alájar
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía

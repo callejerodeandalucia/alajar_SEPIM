@@ -1,11 +1,14 @@
 Título (30)
 ===========
 
+
 Descripción breve (80)
 ======================
+Guía de turismo de Alájar
 
 Descripción completa (4000)
 ===========================
+Guía georreferenciada de turismo de Alájar, con todo lo necesario para el visitante: lugares de interés, alojamientos, restaurantes, compras, instalaciones, rutas senderistas y mucho más.
 
 Etiquetas	
 ===========

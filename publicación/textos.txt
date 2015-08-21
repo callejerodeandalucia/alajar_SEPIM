@@ -1,10 +1,10 @@
 Título (30)
 ===========
-
+Turismo de Alájar
 
 Descripción breve (80)
 ======================
-Guía de turismo de Alájar
+Se proporciona la ubicación espacial de los principales elementos de interés
 
 Descripción completa (4000)
 ===========================
@@ -24,4 +24,4 @@ Sitio web
 
 Correo electrónico
 ==================
-
+sepim.ieca@juntadeandalucia.e

@@ -20,6 +20,7 @@
 	<preference name="SplashScreenDelay" value="10000" />
 	<preference name="AutoHideSplashScreen" value="false" />
 	<preference name="fullscreen" value="true" />
+	<preference name="phonegap-version" value="cli-4.0.0" />
 
 <!-- PERMISOS -->	
 	<preference name="permissions" value="none"/>	
